@@ -1,0 +1,5 @@
+Operating systems manage computer hardware resources and provide services for application software.
+Process management handles process states, context switching, inter-process communication, and multithreading.
+CPU scheduling algorithms include First-Come-First-Served, Shortest Job First, Round Robin, and Priority Scheduling.
+Memory management coordinates virtual memory, paging, segmentation, and page replacement policies like LRU.
+Deadlock conditions require mutual exclusion, hold and wait, no preemption, and circular wait.

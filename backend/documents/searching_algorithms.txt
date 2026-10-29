@@ -1,0 +1,4 @@
+Searching algorithms locate a target element in a collection.
+Linear search checks elements sequentially. Sentinel search places the target at the end to reduce boundary checks.
+Binary search repeatedly divides an ordered collection. Fibonacci search uses Fibonacci numbers to divide the search range.
+Indexed sequential search uses a sparse index and then performs a sequential search within a block.

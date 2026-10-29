@@ -1,0 +1,3 @@
+Machine learning is a branch of artificial intelligence that enables computers to learn patterns from data. 
+Supervised learning uses labelled examples for classification and regression. Unsupervised learning discovers hidden structure in data.
+Machine learning algorithms include decision trees, support vector machines, neural networks, and clustering methods.

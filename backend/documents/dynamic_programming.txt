@@ -1,0 +1,5 @@
+Dynamic programming solves complex problems by breaking them into overlapping subproblems.
+Optimal substructure allows building global optimum solutions from optimal subproblem answers.
+Top-down memoization caches recursive results to prevent redundant exponential recomputations.
+Bottom-up tabulation iteratively builds solutions using table arrays for maximum efficiency.
+Classic dynamic programming algorithms include the knapsack problem, longest common subsequence, and matrix multiplication.

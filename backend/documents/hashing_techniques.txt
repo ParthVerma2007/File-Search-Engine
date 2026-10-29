@@ -1,0 +1,5 @@
+Hashing maps arbitrary data keys into fixed-size table indices using hash functions.
+A good hash function distributes keys uniformly to minimize collisions across buckets.
+Collision resolution strategies include separate chaining with linked lists and open addressing with probing.
+Linear probing, quadratic probing, and double hashing are widely used open addressing methods.
+Hash tables provide constant average time complexity for insert, search, and delete operations.

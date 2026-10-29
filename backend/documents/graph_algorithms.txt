@@ -1,0 +1,5 @@
+Graph algorithms model pairwise relationships between objects using vertices and edges.
+Breadth-first search traverses graphs layer by layer to find shortest unweighted paths.
+Depth-first search explores branches deeply before backtracking, useful for cycle detection and topological sorting.
+Dijkstra algorithm computes shortest paths in non-negative weighted graphs using priority queues.
+Minimum spanning tree algorithms like Prim and Kruskal find minimum weight subgraphs connecting all nodes.

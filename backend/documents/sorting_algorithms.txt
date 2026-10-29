@@ -1,0 +1,4 @@
+Sorting algorithms arrange data according to a chosen ordering.
+Bubble sort, selection sort, insertion sort, merge sort, quick sort, and heap sort are comparison based algorithms.
+Counting sort, radix sort, and bucket sort are non-comparison sorting techniques.
+Sorting may be stable or unstable, in-place or non-in-place, and internal or external.

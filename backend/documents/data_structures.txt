@@ -1,0 +1,3 @@
+Data structures organize and store information so algorithms can process it efficiently.
+Arrays, linked lists, stacks, queues, trees, heaps, hash tables, graphs, and tries are common data structures.
+Choosing an appropriate data structure can improve the time and memory complexity of a program.

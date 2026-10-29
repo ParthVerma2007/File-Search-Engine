@@ -1,0 +1,5 @@
+Tree data structures represent hierarchical relationships with parent and child nodes.
+Binary search trees maintain sorted order where left descendants are smaller and right descendants are larger.
+Self-balancing trees such as AVL trees and Red-Black trees guarantee logarithmic height and fast lookup.
+Tree traversals include pre-order, in-order, post-order, and level-order sequence processing.
+Trie data structures store strings character by character to provide efficient prefix search and autocomplete capabilities.
